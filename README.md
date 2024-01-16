@@ -1,6 +1,6 @@
 # CLI Sorting Algorithms in Node.js
 
-This project is an interactive command line application that implements popular sorting algorithms in Node.js. It provides an easy way to test and understand different sorting algorithms like Bubble Sort, Insertion Sort, Selection Sort, and QuickSort.
+This project is an interactive command line application that implements popular sorting algorithms in Node.js. It provides an easy way to test and understand different sorting algorithms like Bubble Sort, Insertion Sort, Selection Sort, QuickSort and MergeSort.
 
 ## Getting Started
 
